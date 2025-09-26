@@ -79,8 +79,8 @@ Copy code
 - Top 50 users contributed **most deposits & games**  
 - Gameplay strongly influenced loyalty ranking  
 - Bonus distribution was **fair & proportional**  
-- Avg Deposit per User (Oct): ₹XXXX  
-- Avg Games per User (Oct): XX  
+- Avg Deposit per User (Oct): ₹69,500
+- Avg Games per User (Oct): 355
 
 ---
 
